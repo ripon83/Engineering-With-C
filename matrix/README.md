@@ -56,7 +56,7 @@ This chapter contains:
 3. Add, subtract and multiply two matrices
 4. Transpose a matrix
 6. Sparse matrix
-5. How to fold a matrix.
+5. Fold a matrix
 	-Fold left triangular matrix
 	-Fold right triangular matrix
 	-Fold horizontally
