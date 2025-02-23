@@ -57,6 +57,7 @@ This chapter contains:
 4. Transpose a matrix
 6. Sparse matrix
 5. Fold a matrix
+
 	-Fold left triangular matrix
 	-Fold right triangular matrix
 	-Fold horizontally
