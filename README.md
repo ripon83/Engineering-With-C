@@ -1,5 +1,7 @@
 # Engineering with the C Language: A Practical Guide for Programs and Programming
-## Authro: Dr. Ripon Patgiri, National Institute of Technology Silchar
+## Author: 
+**Dr. Ripon Patgiri**, 
+*National Institute of Technology Silchar*
 
 The writing process of this book is still in progress.
 
