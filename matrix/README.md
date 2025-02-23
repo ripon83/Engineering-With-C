@@ -50,7 +50,11 @@ the image, sound, video, etc., can be represented in matrix or 2D array format.
 
 ## List of programs
 
-This chapter contains:
+Most of the problems have two solutions:
+	- Solution with convnetional two-dimensional representation. For instance, mat[5][10]
+	- Solution with one-dimensional representation for the matrix. It requires conversion of one-dimensional to two-dimensional representation. We demonstrates hot to represent the 2D array (matrix) using a single dimensional array. 
+
+You can learn and master how to solve problems of matrix. Also, it will help in job interviews like campus placements.  Therefore, this chapter contains the following programs:
 1. Matrix as a paramater of a function
 2. Display a matrix
 3. Add, subtract and multiply two matrices
