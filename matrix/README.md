@@ -59,8 +59,11 @@ This chapter contains:
 5. Fold a matrix
 
 	-Fold left triangular matrix
+
 	-Fold right triangular matrix
+
 	-Fold horizontally
+
 	-Fold vertically
 6. Flip a matrix
 	- Flip the matrix horizontally
