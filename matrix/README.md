@@ -57,35 +57,31 @@ This chapter contains:
 4. Transpose a matrix
 6. Sparse matrix
 5. Fold a matrix
-
-	-Fold left triangular matrix
-
-	-Fold right triangular matrix
-
-	-Fold horizontally
-
-	-Fold vertically
+	- Fold left triangular matrix
+	- Fold right triangular matrix
+	- Fold horizontally
+	- Fold vertically
 6. Flip a matrix
 	- Flip the matrix horizontally
 	- Flip the matrix vertically
 7. Rotate a matrix
-	-Rotate a matrix clockwise direction
-	-Rotate a matrix counterclockwise direction
+	- Rotate a matrix clockwise direction
+	- Rotate a matrix counterclockwise direction
 8. Prints diagonal elements
 	- Prints principal diagonal elements
 	- Prints secondary principal diagonal elements
 9. Print triangular matrices.
-   	-Left-upper triangular matrix
-   	-Left-lower triangular matrix 
-	-Right-upper triangular matrix 
-	-Right-lower triangular matrix
+   	- Left-upper triangular matrix
+   	- Left-lower triangular matrix 
+	- Right-upper triangular matrix 
+	- Right-lower triangular matrix
 10. Idemptotent matrix
 11. Maximum and minimum in a matrix
-	-Maximum and minimum of each row
-	-Maximum and minimum of each column
+	- Maximum and minimum of each row
+	- Maximum and minimum of each column
 12. Summation of a matrix
-	-Summation of each row
-	-Summation of each column
+	- Summation of each row
+	- Summation of each column
 13. Diagonal elements in zig-zag order
 14. Display a matrix spirally
 15. Minesweeper hints generation
