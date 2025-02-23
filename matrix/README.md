@@ -1,5 +1,5 @@
 
-# Engineering with the C Language: A Practical Guide for Programs and Programming
+# ![#1589F0]Engineering with the C Language: A Practical Guide for Programs and Programming
 
 ## Chapter 13: The Multidimensional Array 
 
@@ -7,6 +7,7 @@ This chapter focuses more on two-dimensional array (matrix). The matrix is the m
 the image, sound, video, etc., can be represented in matrix or 2D array format.
 
 ### Video tutorials in YouTube link: [Engineering with C](https://www.youtube.com/@dr.patgiri) 
+I describe all the programs in the Youtube link. Currently, the YouTube channel is **under construction**.
 
 ## Table of contents
 1. Representation of Matrix
@@ -50,11 +51,11 @@ the image, sound, video, etc., can be represented in matrix or 2D array format.
 
 ## List of programs
 
-Most of the problems have two solutions:
+**Most of the problems have two solutions**:
 	- Solution with convnetional two-dimensional representation. For instance, mat[5][10]
 	- Solution with one-dimensional representation for the matrix. It requires conversion of one-dimensional to two-dimensional representation. We demonstrates hot to represent the 2D array (matrix) using a single dimensional array. 
 
-You can learn and master how to solve problems of matrix. Also, it will help in ** job interviews ** like campus placements.  Therefore, this chapter contains the following programs:
+You can learn and master how to solve problems of matrix. Also, it will help in **job interviews** like campus placements.  Therefore, this chapter contains the following programs:
 1. Matrix as a paramater of a function
 2. Display a matrix
 3. Add, subtract and multiply two matrices
