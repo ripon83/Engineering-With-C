@@ -1,5 +1,5 @@
 
-# \color{#FF0000}{Engineering with the C Language: A Practical Guide for Programs and Programming}
+# {$$\color{red}Engineering with the C Language: A Practical Guide for Programs and Programming}
 
 ## Chapter 13: The Multidimensional Array 
 
