@@ -1,5 +1,6 @@
 
 # Engineering with the C Language: A Practical Guide for Programs and Programming
+**Author: Dr. Ripon Patgiri**
 
 ## Chapter 13: The Multidimensional Array 
 
