@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+    int m=56,n=28,GCD,i;
+    for( i=1; i<=m&&i<=n; i++)  
+    {  
+        if (m%i==0&&n%i==0)  
+            GCD=i;  
+    }  
+    printf("The GCD is %d\n",GCD);
+}

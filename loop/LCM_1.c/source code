@@ -1,0 +1,18 @@
+//Fastest method to calculate LCM
+#include <stdio.h>
+int main()
+{
+    int m=15,n=25,lcm,gcd;
+    int x=m,y=n;
+    while(x>0 && y>0) 
+    {
+        (x>y)?(x=x%y):(y=y%x);
+    }
+    if(x==0)
+        gcd=y;
+    else
+        gcd=x;
+    lcm=(m*n)/gcd;
+    printf("The LCM is %d\n",lcm);
+    return 0;
+}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    int m=56,n=28,temp;
+    while(m!=n){
+        temp=(m>n)?(m-=n):(n-=m);
+    }
+    printf("The GCD is %d", temp);
+    return 0;
+}
