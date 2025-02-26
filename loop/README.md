@@ -4,7 +4,7 @@
 
 ## Chapter 5: The Loops
 
-This chapter focuses on loops such as while, do-while and for loops. We also introduce time complexity. A reader can easily find the time complexity of a loop. 
+This chapter focuses on loops such as while, do-while and for loops. We also introduce time complexity. A reader can easily find the time complexity of a loop. Moreover, this chapter incldues diverse problems of loops such as GCD and LCM problems.
 
 ### Video tutorials in YouTube link: [Engineering with C](https://www.youtube.com/@dr.patgiri) 
 I describe all the programs in the Youtube link. Currently, the YouTube channel is **under construction**.
