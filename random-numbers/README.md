@@ -11,11 +11,16 @@ I describe all the programs in the Youtube link. Currently, the YouTube channel 
 
 ## Table of contents
 
-ENGINEERING WITH THE C LANGUAGE
-A Practical Guide for Programs and Programming
-
 Table of Contents
+
+
+
 
 ## List of programs
 
+The source codes are made for PRNG and TRNG. We generate various-sized random number as follows-
+- 16-bit random number
+- 32-bit random number
+- 64-bit random number
 
+Moreover, we use address, clock(), and hash function to generate the random numbers. Therefore, the address is denoted as 'a', clock() or __tdsc() is denoted as 'c' and hash function is denoted as 'h' in the function names. 
