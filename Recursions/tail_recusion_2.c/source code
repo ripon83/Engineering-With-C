@@ -1,0 +1,16 @@
+#include <stdio.h>
+void foo(int n)
+{
+    static int i=0;
+    if(i<=n)
+    {
+        i++;
+        printf("%d\t",i);
+        foo(n); //tail recursion
+    }
+}
+int main()
+{
+    foo(4);
+    return 0;
+}
