@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() 
+{
+    int m=15,n=25,max,lcm,c=0;
+    max = m>n? m: n;
+    lcm = max;
+    while ((lcm % m != 0) || (lcm % n != 0)) 
+    {
+        lcm += max;
+    }
+    printf("The LCM is %d\n",lcm);
+    return 0;
+}

@@ -1,0 +1,14 @@
+#include <stdio.h>  
+int main()  
+{     
+    int m=56, n=28;  
+    while (m!=n)   
+    {  
+        if(m>n)  
+            m=m-n;   
+        else  
+            n=n-m;  
+    }   
+    printf("GCD is %d",n);  
+    return 0;
+}  

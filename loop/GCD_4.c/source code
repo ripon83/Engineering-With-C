@@ -1,0 +1,21 @@
+//Fastest method to find GCD
+#include <stdio.h>
+int main()
+{
+    int m=56,n=28;
+    while(m>0 && n>0) 
+    {
+        if (m>n) 
+        {
+            m=m%n;
+        }
+        else 
+        {
+            n=n%m;
+        }
+    }
+    if(m==0)
+        printf("The GCD is %d\n",n);
+    else
+        printf("The GCD is %d\n",m);
+}
