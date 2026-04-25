@@ -1,0 +1,334 @@
+abate-To become weaker or reduce.
+abdicate-To give up power or responsibility.
+abhor-To hate strongly.
+abridge-To shorten a text without losing meaning.
+acumen-Quick and accurate judgment.
+adorn-To decorate or add beauty.
+affluent-Wealthy; having a lot of money.
+aggravate-To make a problem worse.
+allude-To refer to something indirectly.
+altercation-A noisy argument.
+amenable-Willing to agree or cooperate.
+amiable-Friendly and pleasant.
+animosity-Strong dislike or hatred.
+annex-To add or attach something.
+ardent-Very enthusiastic or passionate.
+articulate-Able to speak clearly.
+assiduous-Showing great care and effort.
+astute-Clever and able to understand quickly.
+atrocity-An extremely cruel act.
+auspicious-Favorable; likely to bring success.
+aberration-A deviation from what is normal or expected.
+abstain-To choose not to do something.
+acclaim-Praise enthusiastically.
+adequate-Good enough; sufficient.
+adversity-A difficult or unpleasant situation.
+aesthetic-Related to beauty.
+alleviate-To reduce or ease pain or difficulty.
+ambiguous-Having more than one meaning.
+ambitious-Having a strong desire to succeed.
+amiable-Friendly and pleasant.
+anomaly-Something unusual or unexpected.
+antagonist-A person who opposes someone.
+apprehensive-Worried that something bad might happen.
+arbitrary-Based on personal choice, not reason.
+arduous-Very difficult; requiring effort.
+aspire-To aim for something high or great.
+audacious-Bold and daring.
+augment-To increase or make larger.
+authentic-Genuine; real.
+avarice-Extreme greed for wealth.
+bane-A cause of ruin or harm.
+barren-Unable to produce anything.
+befuddle-To confuse completely.
+bequest-Something left to someone in a will.
+brazen-Bold and without shame.
+brevity-Using few words; shortness.
+belittle-To make someone or something seem less important.
+benevolent-Kind and generous.
+boisterous-Noisy, energetic, and cheerful.
+brevity-Shortness of time or words.
+cajole-To persuade by flattery.
+callous-Emotionally insensitive.
+candor-Honesty and openness.
+capricious-Changing mood or behavior suddenly.
+catalyst-Something that causes change.
+cathartic-Emotionally cleansing.
+caustic-Critically sarcastic or burning.
+censure-Strong disapproval.
+chide-To scold mildly.
+clandestine-Done secretly.
+coalesce-To come together to form one group.
+colossal-Very large.
+commend-Praise formally.
+compelling-Forceful and convincing.
+composure-Calmness and control.
+concur-To agree.
+condescend-To act superior or talk down to someone.
+confound-To confuse or surprise.
+conjecture-An educated guess.
+conspicuous-Easily noticeable.
+constitute-To make up or form something.
+construe-To interpret or understand.
+contemplate-To think deeply.
+contingent-Dependent on other conditions.
+copious-Large in quantity.
+cordial-Warm and friendly.
+corroborate-To confirm or support a statement.
+criterion-A standard for judging something.
+culminate-To reach the highest point.
+cursory-Done quickly without detail.
+candid-Honest and truthful.
+chaotic-In complete disorder.
+coerce-To force someone to do something.
+coherent-Clear and logical.
+complacent-Satisfied without being aware of possible danger.
+comprehensive-Including everything; complete.
+condone-To accept or allow something wrong.
+conspicuous-Easily seen or noticed.
+contemplate-To think deeply.
+credible-Believable.
+cynical-Believing people act only for selfish reasons.
+daunting-Intimidating or frightening.
+decree-An official order.
+defiant-Openly resisting authority.
+deft-Skillful and quick.
+degrade-To treat someone with disrespect.
+deliberate-Done intentionally.
+demeanor-The way a person behaves.
+denounce-To publicly criticize.
+depict-To show or describe.
+deprive-To take something away.
+derogatory-Insulting or disrespectful.
+detriment-Harm or damage.
+dexterous-Skillful with hands.
+diligent-Hardworking and careful.
+diminish-To reduce or make smaller.
+discord-Disagreement or conflict.
+disdain-A strong feeling of dislike.
+disparage-To speak badly about someone.
+disperse-To spread or scatter.
+disposition-A person’s natural attitude.
+dissent-To disagree with official opinion.
+distort-To twist or change the truth.
+divulge-To reveal a secret.
+docile-Easy to teach or manage.
+dubious-Doubtful or uncertain.
+earnest-Serious and sincere.
+eccentric-Unusual or strange in behavior.
+ecstatic-Extremely happy.
+elated-Very joyful.
+eloquent-Fluent and persuasive in speaking.
+emphatic-Expressing something strongly.
+endure-To suffer patiently.
+engulf-To completely surround or cover.
+enigma-Someone or something mysterious.
+enthrall-To fascinate completely.
+ephemeral-Lasting a very short time.
+equitable-Fair and just.
+erroneous-Wrong or incorrect.
+escalate-To increase or intensify.
+estrange-To cause someone to feel isolated.
+evade-To avoid or escape.
+exalt-To praise highly.
+exemplify-To show as a good example.
+exorbitant-Too high or unreasonable (price or demand).
+dauntless-Fearless.
+debilitate-To weaken.
+deference-Respectful submission.
+diligent-Hardworking and careful.
+discreet-Careful about what you say or do.
+elaborate-Detailed and complicated.
+elusive-Hard to find or understand.
+emerge-To come into view.
+empathy-The ability to understand another’s feelings.
+endeavor-A serious effort or attempt.
+enhance-To improve or increase.
+entice-To attract or tempt.
+eradicate-To completely remove or destroy.
+erratic-Not consistent; unpredictable.
+exasperate-To annoy greatly.
+explicit-Clear and direct.
+facetious-Treating serious issues with inappropriate humor.
+fallacy-A mistaken belief or error in reasoning.
+fastidious-Very attentive to detail; hard to please.
+feasible-Possible and practical to do easily.
+fluctuate-To change or vary frequently.
+foible-A minor weakness or flaw in character.
+formidable-Very powerful or difficult to deal with.
+fortuitous-Happening by chance, often lucky.
+frivolous-Not serious; trivial or silly.
+furtive-Done secretly or stealthily.
+gratify-To please or satisfy.
+garrulous-Very talkative, often excessively.
+gratuitous-Unnecessary or uncalled for.
+gregarious-Sociable; enjoying the company of others.
+guile-Cunning intelligence; slyness.
+hostile-Unfriendly; aggressive.
+humility-The quality of being humble.
+hackneyed-Overused, unoriginal, or cliché.
+harbinger-A person or thing that signals something to come.
+hedonist-A person who seeks pleasure as the main goal.
+heterogeneous-Consisting of different kinds; diverse.
+hypocrisy-Claiming to have moral standards while acting contrary.
+hypothetical-Based on a suggested idea or theory, not real.
+illicit-Illegal or forbidden.
+imminent-About to happen soon.
+impartial-Fair; not biased.
+impede-To slow down or block.
+incessant-Continuing without stopping.
+incite-To encourage or stir up.
+indignant-Angry because of unfair treatment.
+inevitable-Sure to happen; unavoidable.
+infamous-Famous for something bad.
+innate-Something you are born with.
+insolent-Rude and disrespectful.
+integrity-Being honest and moral.
+intimidate-To frighten or threaten.
+invoke-To call upon (a rule, law, or power).
+irate-Very angry.
+iconoclast-A person who challenges traditions or beliefs.
+idiosyncrasy-A distinctive or peculiar feature of a person.
+immutable-Unchanging over time.
+impasse-A situation with no progress possible.
+impeccable-Flawless; perfect.
+imperative-Urgently necessary; unavoidable.
+imperious-Assuming authority without justification; arrogant.
+implacable-Unable to be calmed or satisfied.
+impromptu-Done without preparation.
+incongruous-Not in harmony; out of place.
+indefatigable-Incapable of being tired; persistent.
+indolent-Lazy; avoiding activity.
+ineffable-Too great or extreme to be expressed in words.
+inexorable-Impossible to stop or prevent.
+infinitesimal-Extremely small.
+ingenious-Very clever or inventive.
+innate-Existing from birth; natural.
+insidious-Subtly harmful or treacherous.
+insolent-Rude or disrespectful.
+intrepid-Fearless and adventurous.
+inundate-To overwhelm with a large amount.
+irreverent-Lacking proper respect.
+jubilant-Extremely happy or joyful.
+judicious-Showing good judgment.
+juxtapose-To place side by side for comparison.
+kinetic-Relating to motion.
+languid-Slow and relaxed; lacking energy.
+latent-Present but not visible or active.
+luminous-Emitting or reflecting light; bright.
+lethargic-Lacking energy; sleepy.
+lucid-Clear and easy to understand.
+magnanimous-Very generous or forgiving.
+malevolent-Having or showing a wish to do evil.
+malignant-Very harmful or dangerous.
+mendacious-Lying; not telling the truth.
+metamorphosis-A complete change in form or nature.
+meticulous-Very careful and precise.
+morose-Sullen or gloomy.
+mundane-Ordinary; lacking excitement.
+myriad-A countless or extremely great number.
+nefarious-Very wicked or criminal.
+meticulous-Very careful and precise.
+morbid-Related to disturbing or unpleasant subjects.
+negligent-Not careful enough; careless.
+notorious-Well-known for something bad.
+neophyte-A beginner or novice.
+nominal-Existing in name only; very small.
+nostalgia-A longing for the past.
+oblivious-Not aware of what is happening.
+obsolete-No longer used or relevant.
+omnipotent-All-powerful.
+oppress-To keep someone in hardship or control.
+ornate-Highly decorated.
+obfuscate-To confuse or make unclear.
+oblivion-Being forgotten or unknown.
+obsequious-Excessively obedient or submissive.
+obtuse-Slow to understand; insensitive.
+odious-Extremely unpleasant; repulsive.
+onerous-Burdensome; heavy to endure.
+opulent-Wealthy and luxurious.
+paradox-A statement that seems contradictory but may be true.
+perceive-To become aware of something.
+plausible-Seems reasonable or likely.
+precise-Exact and accurate.
+pristine-Pure; clean; untouched.
+provoke-To cause anger or reaction.
+panacea-A solution for all problems.
+paradigm-A model or pattern.
+pariah-A social outcast.
+parsimonious-Very unwilling to spend money.
+pejorative-Having a negative effect; insulting.
+perfunctory-Done superficially or without interest.
+persevere-To continue despite difficulty.
+perspicacious-Having keen insight.
+phlegmatic-Calm and unemotional.
+plethora-A large or excessive amount.
+precocious-Developed abilities at an unusually early age.
+prodigious-Remarkably great in size or extent.
+prolific-Producing much or many; fruitful.
+prudent-Careful and sensible.
+punctilious-Very careful about small details.
+quagmire-A difficult or precarious situation.
+quintessential-Representing the most perfect example.
+quixotic-Idealistic but impractical.
+rational-Based on logic or reason.
+reclusive-Preferring to live alone; avoiding people.
+relevant-Connected to the topic.
+resilient-Able to recover quickly from difficulty.
+resilience-The ability to recover quickly from difficulties.
+rancor-Bitter resentment.
+rapacious-Greedily taking by force.
+recalcitrant-Stubbornly refusing to obey rules.
+reclusive-Prefering to live in isolation.
+redolent-Strongly reminiscent or suggestive.
+remorse-Deep regret for wrongdoing.
+renegade-A person who deserts a cause or group.
+rescind-To revoke or cancel.
+resilient-Able to recover quickly from adversity.
+rhetoric-The art of persuasive speaking or writing.
+rudimentary-Basic or simple; undeveloped.
+salient-Most noticeable or important.
+sanguine-Optimistic or hopeful.
+scintillating-Extremely brilliant or lively.
+scrupulous-Very careful to do what is morally right.
+serendipity-The occurrence of fortunate events by chance.
+spurious-False or fake.
+stentorian-Very loud or powerful in sound.
+stoic-Enduring pain without showing feelings.
+subjugate-To bring under control; conquer.
+superfluous-Extra; unnecessary.
+surreptitious-Secretive; done stealthily.
+sagacious-Having good judgment; wise.
+scrutiny-Careful inspection.
+skeptical-Doubting; not easily convinced.
+subtle-Not obvious; delicate.
+tangible-Can be touched; real.
+tedious-Boring and too long.
+taciturn-Reserved or uncommunicative.
+temerity-Excessive boldness; rashness.
+tenacious-Holding firmly; persistent.
+trepidation-Fear or anxiety.
+ubiquitous-Present everywhere.
+unprecedented-Never done before.
+vacillate-To waver between choices.
+venerate-To respect deeply.
+veracity-Truthfulness.
+vulnerable-Open to harm or attack.
+verbose-Using more words than necessary.
+vicarious-Experienced through another.
+vindicate-To clear from blame.
+virulent-Extremely harmful or poisonous.
+vociferous-Loud and forceful.
+voracious-Having a huge appetite; greedy.
+wanton-Deliberate and unprovoked.
+wary-Cautious; careful.
+wistful-Sadly longing for something.
+zealous-Full of energy and enthusiasm for a cause.
+courage-The ability to face fear, pain, or danger bravely.
+ambitious-Having a strong desire to achieve something.
+endurance-Ability to withstand hardship over time.
+optimism-A positive belief that good things will happen.
+grit-Courage and resolve; strength of character.
+determination-Firmness of purpose; not giving up easily.
+persistent-Continuing firmly despite difficulty.
+valor-Bravery; courage.
