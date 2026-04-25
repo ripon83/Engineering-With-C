@@ -1,6 +1,7 @@
 
 # Engineering with C: A Practical Guide for Programming and Programs
-## Authored by Dr. Ripon Patgiri, National Institute of Technology Silchar <img src="images/pic.png" align="right" width="250">
+<img src="images/pic.png" align="right" width="250">
+## Authored by Dr. Ripon Patgiri, National Institute of Technology Silchar 
 
 
 
