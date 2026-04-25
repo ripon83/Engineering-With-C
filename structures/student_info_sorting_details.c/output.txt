@@ -1,0 +1,48 @@
+Enter the number of students: 3
+
+
+*********** Student 1 ************
+Enter the given name: Vivan 
+Enter the surname name: Battacharjee
+Enter the roll number:CS001
+Enter the age: 18
+
+
+*********** Student 2 ************
+Enter the given name: Joya      
+Enter the surname name: Doley
+Enter the roll number:CS002
+Enter the age: 17
+
+
+*********** Student 3 ************
+Enter the given name: Ripon
+Enter the surname name: Alam
+Enter the roll number:Cs003
+Enter the age: 19
+=============================================================
+1. Name: Vivan Battacharjee     Roll Number: CS001      Age: 18
+2. Name: Joya Doley     Roll Number: CS002      Age: 17
+3. Name: Ripon Alam     Roll Number: Cs003      Age: 19
+=============================================================
+
+Quick sort by first name:
+=============================================================
+1. Name: Joya Doley     Roll Number: CS002      Age: 17
+2. Name: Ripon Alam     Roll Number: Cs003      Age: 19
+3. Name: Vivan Battacharjee     Roll Number: CS001      Age: 18
+=============================================================
+
+Quick sort by surname name:
+=============================================================
+1. Name: Ripon Alam     Roll Number: Cs003      Age: 19
+2. Name: Vivan Battacharjee     Roll Number: CS001      Age: 18
+3. Name: Joya Doley     Roll Number: CS002      Age: 17
+=============================================================
+
+Quick sort by roll number:
+=============================================================
+1. Name: Vivan Battacharjee     Roll Number: CS001      Age: 18
+2. Name: Joya Doley     Roll Number: CS002      Age: 17
+3. Name: Ripon Alam     Roll Number: Cs003      Age: 19
+=============================================================
