@@ -1,0 +1,73 @@
+#include <stdio.h>
+void show(int r, int c, int m[r][c])
+{
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+            printf("%d\t",m[i][j]);
+        printf("\n");
+    }
+}
+
+void transpose(int r, int c, int des[r][c], int src[r][c])
+{
+    if(r!=c)
+    {
+        printf("No transpose!");
+        return;
+    }
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+            des[i][j]=src[j][i];
+    }
+}
+
+void multiply(int r, int c, int res[r][c], int A[r][c], int B[r][c])
+{
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+        {
+            res[i][j]=0;
+            for(int k=0; k<c; k++)
+                res[i][i]+=A[i][k]*B[k][j];
+        }
+    }
+}
+int identity(int r, int c, int A[r][c])
+{
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+        {
+            if(i==j && A[i][j]!=1)
+                return 0;
+            if(i!=j && A[i][j]!=0)
+                return 0;
+        }
+    }
+    return 1;
+}
+
+void orthogonal(int r, int c, int A[r][c])
+{
+    int B[r][c], res[r][c];
+    
+    transpose(r, c, B, A);
+    multiply(r, c, res, A, B);
+    
+    if(identity(r, c, res))
+        printf("orthogonal");
+    else
+        printf("Non-orthogonal");
+    
+}
+
+int main() 
+{
+    int r=3, c=3;
+    int A[3][3]={{0,1,0}, {1, 0, 0}, {0, 0, 1}};
+    orthogonal(r, c, A);    
+    return 0;
+}

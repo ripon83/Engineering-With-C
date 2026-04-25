@@ -1,0 +1,59 @@
+#include <stdio.h>
+void show(int r, int c, int m[r][c])
+{
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+            printf("%d\t",m[i][j]);
+        printf("\n");
+    }
+}
+
+void transpose(int r, int c, int des[r][c], int src[r][c])
+{
+    if(r!=c)
+    {
+        printf("No transpose!");
+        return;
+    }
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+            des[i][j]=src[j][i];
+    }
+}
+
+
+int equal(int r, int c, int A[r][c], int B[r][c])
+{
+    for(int i=0; i<r; i++)
+    {
+        for(int j=0; j<c; j++)
+        {
+            if(A[i][j]!=B[i][j])
+                return 0;
+        }
+    }
+    return 1;
+}
+
+void symmetry(int r, int c, int A[r][c])
+{
+    int B[r][c], res[r][c];
+    
+    transpose(r, c, B, A);
+
+    if(equal(r, c, A, B))
+        printf("Symmetrical matrix");
+    else
+        printf("Non-symmetrical matrix");
+    
+}
+
+int main() 
+{
+    int r=3, c=3;
+    int A[3][3]={{1,2,1}, {2, 1, 1}, {1, 0, 1}};
+    symmetry(r, c, A);    
+    return 0;
+}
