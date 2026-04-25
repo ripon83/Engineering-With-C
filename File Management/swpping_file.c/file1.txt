@@ -1,0 +1,8 @@
+Engineering is not just about solving equations or writing code—it’s about 
+learning how to think, adapt, and persist when things don’t work the first 
+time. There will be days when concepts feel impossible and failures seem 
+constant, but those moments are actually shaping your problem-solving mindset. 
+Every bug you fix, every concept you finally understand after struggling, is 
+building your strength as an engineer. Stay consistent, be curious, and 
+remember: progress in engineering is not always fast, but it is always 
+meaningful if you keep going.
