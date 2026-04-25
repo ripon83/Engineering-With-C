@@ -1,9 +1,9 @@
 
 # Engineering with C: A Practical Guide for Programming and Programs
 
-<img src="https://cs.nits.ac.in/storage/FacultyDetails/IMG_1753450953688389c9983fc.jpg" align="right" width="150">
-
 ## Authored by Dr. Ripon Patgiri, National Institute of Technology Silchar 
 
+<img src="https://cs.nits.ac.in/storage/FacultyDetails/IMG_1753450953688389c9983fc.jpg" align="right" width="150">
 
+This book is aimed at engineering students, and teachers. They can learn the C programming languge in-depth. 
 
