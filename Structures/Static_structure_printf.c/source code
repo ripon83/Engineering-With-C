@@ -1,0 +1,17 @@
+#include <stdio.h>
+typedef struct
+{
+    int x;
+}demo;
+
+int foo()
+{
+    static demo d={0};
+    return d.x++;
+}
+
+int main()
+{
+    printf("%d\t%d\t%d\t%d\n", foo(), foo(), foo(), foo());
+    return 0;
+}

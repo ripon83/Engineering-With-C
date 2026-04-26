@@ -1,0 +1,24 @@
+#include <stdio.h>
+typedef struct
+{
+    int x, y;
+}demo;
+
+void populate(demo *p)
+{
+    p->x=5;
+    p->y=10;
+}
+
+void show(demo p)
+{
+    printf("(%d, %d)", p.x, p.y);
+}
+
+int main()
+{
+    demo d;
+    populate(&d);
+    show(d);
+    return 0;
+}
