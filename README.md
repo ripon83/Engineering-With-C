@@ -2164,4 +2164,28 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 ## License
 
-Add the license appropriate for your book, source code, and repository before public distribution.
+Copyright © 2026 Ripon Patgiri. All rights reserved.
+
+This book, its accompanying materials, examples, and source code are made available for **personal, educational, and non-commercial use**.
+
+You are permitted to:
+
+* Use the materials for personal study, teaching, learning, and academic purposes.
+* Copy and redistribute the materials free of charge for non-commercial purposes.
+* Modify or adapt the materials for personal, educational, or other non-commercial purposes.
+* Use and modify the example source code for learning, teaching, and non-commercial projects.
+
+Subject to the following conditions:
+
+1. **Attribution:** Appropriate credit must be given to the original author, **Ripon Patgiri**, and the original source should be identified where reasonably possible.
+2. **Non-Commercial Use:** The book, source code, or any substantial portion or modified version of them may not be sold, licensed for a fee, included in a commercial product, or otherwise used primarily for commercial advantage or monetary compensation without prior written permission from the copyright holder.
+3. **Free Distribution:** Redistribution is permitted only when no fee is charged for the material itself, except reasonable costs directly associated with reproduction or distribution.
+4. **Preservation of Notice:** This copyright and license notice must be retained in redistributed copies or substantial portions of the material.
+5. **No Additional Rights:** This license does not transfer ownership or copyright. All rights not expressly granted remain with the copyright holder.
+
+Commercial use requires prior written permission from the copyright holder.
+
+### Disclaimer
+
+The materials are provided **"as is"**, without warranties of any kind, express or implied. To the extent permitted by applicable law, the copyright holder shall not be liable for any damages arising from the use of these materials.
+
