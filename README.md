@@ -1,13 +1,23 @@
 # Engineering with the C Language: A Practical Guide for Programming and Programs
 
-## Authored by Dr. Ripon Patgiri, National Institute of Technology Silchar 
+<table>
+<tr>
+<td width="78%" valign="top">
 
-<img src="https://cs.nits.ac.in/storage/FacultyDetails/IMG_1753450953688389c9983fc.jpg" align="right" width="150">
+## Authored by Dr. Ripon Patgiri, National Institute of Technology Silchar
 
-<br><br><br><br><br>
+This book is designed for engineering students and teachers to help them learn the C programming language in depth.
 
-This book is designed for engineering students and teachers to help them learn the C programming language in depth. 
-You can find the videos of this book at <a href="https://www.youtube.com/@dr.patgiri" target="_blank">YouTube</a>
+You can find the videos of this book at <a href="https://www.youtube.com/@dr.patgiri" target="_blank">YouTube</a>.
+
+</td>
+<td width="22%" align="right" valign="top">
+
+<img src="https://cs.nits.ac.in/storage/FacultyDetails/IMG_1753450953688389c9983fc.jpg" width="150">
+
+</td>
+</tr>
+</table>
 
 ## A program repository
 
@@ -25,21 +35,23 @@ For example, `8.1.pointer-initialization.c` means the first extracted program fr
 
 ## Chapter Index
 
+Click a chapter title below to expand its complete list of programs.
+
 | Chapter | Topic | Programs |
 |---:|---|---:|
-| 2 | [Data Types and Variables](#chapter-2--data-types-and-variables) | 106 |
-| 3 | [Operators](#chapter-3--operators) | 204 |
-| 4 | [Control Statements](#chapter-4--control-statements) | 155 |
-| 5 | [Loops](#chapter-5--loops) | 107 |
-| 6 | [Functions](#chapter-6--functions) | 125 |
-| 7 | [Recursions](#chapter-7--recursions) | 107 |
-| 8 | [Pointers](#chapter-8--pointers) | 116 |
-| 9 | [Arrays](#chapter-9--arrays) | 272 |
-| 10 | [Multidimensional Arrays / Matrix](#chapter-10--multidimensional-arrays--matrix) | 269 |
-| 11 | [Strings](#chapter-11--strings) | 160 |
-| 12 | [Structures and Union](#chapter-12--structures-and-union) | 170 |
-| 13 | [File Management](#chapter-13--file-management) | 100 |
-| 14 | [Random Numbers](#chapter-14--random-numbers) | 42 |
+| 2 | Data Types and Variables | 106 |
+| 3 | Operators | 204 |
+| 4 | Control Statements | 155 |
+| 5 | Loops | 107 |
+| 6 | Functions | 125 |
+| 7 | Recursions | 107 |
+| 8 | Pointers | 116 |
+| 9 | Arrays | 272 |
+| 10 | Multidimensional Arrays / Matrix | 269 |
+| 11 | Strings | 160 |
+| 12 | Structures and Union | 170 |
+| 13 | File Management | 100 |
+| 14 | Random Numbers | 42 |
 
 ## How to Compile and Run
 
@@ -54,7 +66,8 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 ---
 
-## Chapter 2 — Data Types and Variables
+<details>
+<summary><strong>Chapter 2 — Data Types and Variables</strong></summary>
 
 **Programs:** 106
 
@@ -169,9 +182,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 3 — Operators
+<details>
+<summary><strong>Chapter 3 — Operators</strong></summary>
 
 **Programs:** 204
 
@@ -384,9 +401,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 4 — Control Statements
+<details>
+<summary><strong>Chapter 4 — Control Statements</strong></summary>
 
 **Programs:** 155
 
@@ -550,9 +571,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 5 — Loops
+<details>
+<summary><strong>Chapter 5 — Loops</strong></summary>
 
 **Programs:** 107
 
@@ -668,9 +693,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 6 — Functions
+<details>
+<summary><strong>Chapter 6 — Functions</strong></summary>
 
 **Programs:** 125
 
@@ -804,9 +833,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 7 — Recursions
+<details>
+<summary><strong>Chapter 7 — Recursions</strong></summary>
 
 **Programs:** 107
 
@@ -922,9 +955,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 8 — Pointers
+<details>
+<summary><strong>Chapter 8 — Pointers</strong></summary>
 
 **Programs:** 116
 
@@ -1049,9 +1086,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 9 — Arrays
+<details>
+<summary><strong>Chapter 9 — Arrays</strong></summary>
 
 **Programs:** 272
 
@@ -1332,9 +1373,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 10 — Multidimensional Arrays / Matrix
+<details>
+<summary><strong>Chapter 10 — Multidimensional Arrays / Matrix</strong></summary>
 
 **Programs:** 269
 
@@ -1612,9 +1657,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 11 — Strings
+<details>
+<summary><strong>Chapter 11 — Strings</strong></summary>
 
 **Programs:** 160
 
@@ -1783,9 +1832,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 12 — Structures and Union
+<details>
+<summary><strong>Chapter 12 — Structures and Union</strong></summary>
 
 **Programs:** 170
 
@@ -1964,9 +2017,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 13 — File Management
+<details>
+<summary><strong>Chapter 13 — File Management</strong></summary>
 
 **Programs:** 100  
 **Companion `.txt` files:** 20
@@ -2099,9 +2156,13 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 
 [Back to Chapter Index](#chapter-index)
 
+
+</details>
+
 ---
 
-## Chapter 14 — Random Numbers
+<details>
+<summary><strong>Chapter 14 — Random Numbers</strong></summary>
 
 **Programs:** 42
 
@@ -2151,6 +2212,9 @@ Some examples intentionally demonstrate compilation errors, undefined behavior, 
 | 14.42 | [`14.42.guess_most_frequent_face_game.c`](chapter14_Random%20numbers/14.42.guess_most_frequent_face_game.c) | Guess Most Frequent Face Game |
 
 [Back to Chapter Index](#chapter-index)
+
+
+</details>
 
 ---
 
