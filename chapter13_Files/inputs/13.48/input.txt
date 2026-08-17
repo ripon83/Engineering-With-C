@@ -1,0 +1,4 @@
+Number of characters: 456
+Number of words: 83
+Number of sentences: 6
+Number of lines: 6

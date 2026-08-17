@@ -1,0 +1,13 @@
+/*
+ * Program: Summary 35
+ * Purpose: Demonstrates the corresponding control-statement concept
+ *          presented in Chapter 4.
+ */
+
+#include <stdio.h>
+int main()  // Main function: program execution starts here
+{
+    int n=(3,2,1);
+    printf("n= %d",(++n,n++,++n));  // Display output
+    return 0;  // Indicate successful program termination
+}

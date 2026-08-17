@@ -1,0 +1,3 @@
+Enter the word or sentence to be searched:battles
+The string is found at line number : 4
+The string is found at line number : 5

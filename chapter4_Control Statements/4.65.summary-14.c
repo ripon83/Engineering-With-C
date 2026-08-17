@@ -1,0 +1,16 @@
+/*
+ * Program: Summary 14
+ * Purpose: Demonstrates the corresponding control-statement concept
+ *          presented in Chapter 4.
+ */
+
+#include <stdio.h>
+int main()  // Main function: program execution starts here
+{
+    int l=2,m=3,n=1;
+    if(l<m==n)  // Test the specified condition
+        printf("True");  // Display output
+    else  // Execute this branch when the preceding condition is false
+        printf("False");  // Display output
+    return 0;  // Indicate successful program termination
+}

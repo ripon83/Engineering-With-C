@@ -1,0 +1,23 @@
+Iteration 1: If
+Iteration 2: you
+Iteration 3: love
+Iteration 4: your
+Iteration 5: work,
+Iteration 6: then
+Iteration 7: the
+Iteration 8: following
+Iteration 9: happens:
+Iteration 10: "Very
+Iteration 11: hard"
+Iteration 12: becomes
+Iteration 13: "Very
+Iteration 14: easy"
+Iteration 15: "Boring"
+Iteration 16: becomes
+Iteration 17: "Interesting"
+Iteration 18: "Impossible"
+Iteration 19: becomes
+Iteration 20: "Trivial"
+.
+.
+.

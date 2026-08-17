@@ -1,0 +1,9 @@
+If you love your work, then the following happens:
+"Very hard" becomes "Very easy"
+"Boring" becomes  "Interesting"
+"Impossible" becomes "Trivial"
+If you hate your work, the reverse happens:
+"Very easy" becomes "Very hard"
+"Interesting" becomes "Boring"
+"Trivial" becomes "Impossible"
+So, should we love or hate our work?
